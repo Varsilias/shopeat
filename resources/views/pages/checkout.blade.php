@@ -1,4 +1,8 @@
 @extends('layouts.app')
+
+@section('title')
+    Checkout
+@endsection
 @section('content')
 <div class="container mt-4">
     <div class="row">

@@ -7,7 +7,7 @@
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>{{ config('app.name', 'Laravel') }}</title>
+    <title>@yield('title') | {{ config('app.name', 'Shopeat') }}</title>
 
     <link rel="icon" href="{{asset('img/favicon.png')}}" type="image/gif" sizes="16x16">
 

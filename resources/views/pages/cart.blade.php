@@ -1,5 +1,9 @@
 @extends('layouts.app')
 
+@section('title')
+    Cart
+@endsection
+
 @section('content')
 <div class="pb-5 mt-5">
     <div class="container">

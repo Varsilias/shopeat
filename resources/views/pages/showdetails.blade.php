@@ -1,4 +1,12 @@
 @extends('layouts.app')
+
+@section('title')
+    @if(count($products) > 0)
+    @foreach ($products as $item)
+        {{$item->name}}
+    @endforeach
+    @endif
+@endsection
 @section('content')
 <div class="container  mt-3">
     <div class="row align-item-center justify-content-center">
