@@ -16,7 +16,7 @@ class ReviewSeeder extends Seeder
      */
     public function run()
     {
-        for ($i = 0; $i < 100; $i++) {
+        for ($i = 0; $i < 300; $i++) {
             Review::create([
                 'product_id' => rand(1, 50),
                 'customer' => Str::random(7),
