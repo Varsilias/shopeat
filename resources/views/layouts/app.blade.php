@@ -31,8 +31,8 @@
 <body>
     <div id="app">
         @include('includes.nav')
-    {{-- loader starts --}}
-    <div class="container">
+
+        <div class="container">
         <div class="row loader-container">
             <div class="col-md-12 justify-content-center text-center py-4">
                 <div class="loader">
