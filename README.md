@@ -1,5 +1,5 @@
 # Shopeat
-##[Link to Live Project](https://shopeat.herokuapp.com)  
+## [Link to Live Project](https://shopeat.herokuapp.com)  
 
 ## About Shopeat
 
