@@ -1,4 +1,5 @@
 # Shopeat
+##[Link to Live Project](https://shopeat.herokuapp.com)  
 
 ## About Shopeat
 
@@ -13,4 +14,3 @@
 - [Daniel Okoronkwo on Facebook](https://www.facebook.com/daniel.okoronkwo.52)
 - [Daniel Okoronkwo on GitHub](https://github.com/danielokoronkwo-coder)
 
-- [Link to Live Project](https://shopeat.herokuapp.com)  
